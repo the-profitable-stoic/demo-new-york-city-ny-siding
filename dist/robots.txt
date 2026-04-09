@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://demo-new-york-city-ny-siding.dream-surge.com/sitemap-index.xml

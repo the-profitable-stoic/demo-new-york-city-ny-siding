@@ -1,0 +1,548 @@
+{
+  "business": {
+    "name": "New York City NY Siding",
+    "phone": "+16468493390",
+    "category": "siding installer",
+    "city": "New York",
+    "state": "NY"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-trust-navy",
+      "categoryGroup": "roofing",
+      "name": "Trust Navy",
+      "recipeFile": "roofing/trust-navy.astro",
+      "colors": {
+        "primary": "#2C4563",
+        "primaryDark": "#1B2F45",
+        "primaryLight": "#D4E0ED",
+        "secondary": "#3D5A80",
+        "accent": "#3D6B5A",
+        "background": "#FFFFFF",
+        "backgroundAlt": "#2C4563",
+        "surface": "#F4F6F8",
+        "text": "#1A1A2E",
+        "textLight": "#4A5568",
+        "textOnDark": "#FFFFFF",
+        "border": "#E5E7EB"
+      },
+      "typography": {
+        "headingFont": "Playfair Display",
+        "headingWeight": "700",
+        "bodyFont": "Source Sans 3",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.25"
+      },
+      "shape": {
+        "borderRadius": "6px",
+        "buttonRadius": "6px",
+        "cardRadius": "10px",
+        "shadowStyle": "soft"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "dark",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/trust-navy"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "NYC's Trusted Siding Experts",
+      "heroSubline": "Protecting homes and businesses with quality siding solutions. We deliver durability and curb appeal across New York.",
+      "aboutTitle": "Decades of Siding Excellence in NYC",
+      "aboutText": [
+        "New York City NY Siding started with a simple mission: to provide dependable and lasting siding solutions for New Yorkers. We've seen it all, from brownstone restorations in Brooklyn to modern high-rises in Manhattan. Our commitment is to quality craftsmanship, every single time.",
+        "Our approach is straightforward. We listen to your needs, assess your property, and provide a transparent plan with no hidden costs. We use premium materials and proven techniques to ensure a siding installation that stands the test of time and weather.",
+        "We're deeply rooted in the NYC community. We source materials locally whenever possible, support local initiatives, and are committed to sustainable practices. Our success is tied to the well-being of the neighborhoods we serve."
+      ],
+      "valueProps": [
+        {
+          "title": "Expert Installation",
+          "description": "Precision siding installation that protects your property from the elements."
+        },
+        {
+          "title": "Premium Materials",
+          "description": "We use only the highest-quality siding materials for lasting durability."
+        },
+        {
+          "title": "Free Consultations",
+          "description": "Get a detailed estimate and expert advice tailored to your specific needs."
+        },
+        {
+          "title": "Local Expertise",
+          "description": "We understand the unique challenges of NYC architecture and weather."
+        }
+      ],
+      "ctaHeadline": "Protect Your Property Today",
+      "ctaSubline": "Schedule your free siding consultation and get a customized quote."
+    },
+    "services": [
+      {
+        "slug": "vinyl-siding-installation",
+        "name": "Vinyl Siding Installation",
+        "shortDescription": "Durable and affordable vinyl siding installation for homes and businesses in NYC.",
+        "description": "Vinyl siding remains a popular choice in New York City for its affordability, versatility, and ease of maintenance. We offer a wide range of vinyl siding options to suit any architectural style, from classic brownstones to modern condos. Our expert installation ensures a weathertight seal, protecting your property from moisture, pests, and the harsh NYC winters. We handle everything from removing old siding to installing new trim and flashing, leaving you with a beautiful and durable finish. We carefully select vinyl siding products that can withstand New York's temperature swings and occasional extreme weather events. \n\nOur vinyl siding installation process includes a thorough inspection of your existing structure, proper preparation of the surface, and precise installation techniques to prevent warping, cracking, and fading. We also offer a variety of color and texture options to enhance your property's curb appeal and value. We focus on quality and customer satisfaction, ensuring your vinyl siding installation is a seamless and stress-free experience.\n\nWe are familiar with all types of vinyl siding including horizontal siding, vertical siding, simulated wood siding, and insulated siding.",
+        "process": [
+          "Step 1: Initial consultation and property assessment",
+          "Step 2: Material selection and customized quote",
+          "Step 3: Removal of old siding and surface preparation",
+          "Step 4: Precise installation of new vinyl siding and trim"
+        ],
+        "benefits": [
+          "Affordable and cost-effective",
+          "Low maintenance and easy to clean",
+          "Wide variety of colors and styles",
+          "Enhanced curb appeal and property value"
+        ],
+        "faq": [
+          {
+            "question": "How long does vinyl siding last in NYC's climate?",
+            "answer": "With proper installation and maintenance, vinyl siding can last for 20-40 years, even in New York City's challenging weather conditions. We use high-quality materials that are resistant to fading, cracking, and warping."
+          },
+          {
+            "question": "Is vinyl siding energy-efficient?",
+            "answer": "Yes, insulated vinyl siding can significantly improve your home's energy efficiency by reducing heat loss in the winter and heat gain in the summer. This can lead to lower energy bills and a more comfortable living environment."
+          },
+          {
+            "question": "Can you install vinyl siding over existing siding?",
+            "answer": "In some cases, we can install vinyl siding over existing siding, but it depends on the condition of the existing siding and the type of material. We will assess your property and provide a recommendation that is best for your situation."
+          }
+        ]
+      },
+      {
+        "slug": "fiber-cement-siding-installation",
+        "name": "Fiber Cement Siding Installation",
+        "shortDescription": "Durable and fire-resistant fiber cement siding for NYC homes and businesses.",
+        "description": "Fiber cement siding is an excellent choice for New York City properties seeking superior durability, fire resistance, and aesthetic appeal. It mimics the look of wood, stucco, or brick while offering exceptional protection against the elements. Our skilled installers are experienced in working with fiber cement siding of all types including planks, shingles, and panels. We ensure precise cuts, proper fastening, and seamless joints for a long-lasting and beautiful finish. Fiber cement siding is particularly well-suited for older homes in NYC, providing a historic look with modern performance.\n\nWe focus on proper installation techniques to prevent moisture intrusion and ensure long-term performance. This includes proper flashing around windows and doors, sealing of all joints, and adequate ventilation behind the siding. We also offer a wide range of color and texture options to complement your property's existing architecture. Fiber cement siding is a great option for homes in areas prone to wildfires or extreme weather, offering superior protection and peace of mind.\n\nWe work closely with homeowners and building owners to select the right fiber cement siding products for their specific needs and budget. We provide detailed estimates, project timelines, and ongoing communication throughout the installation process.",
+        "process": [
+          "Step 1: Detailed consultation and property inspection",
+          "Step 2: Material selection and customized design",
+          "Step 3: Removal of existing siding and wall preparation",
+          "Step 4: Precise installation of fiber cement siding"
+        ],
+        "benefits": [
+          "Exceptional durability and longevity",
+          "Fire-resistant and insect-resistant",
+          "Mimics the look of wood or stucco",
+          "Increases property value and curb appeal"
+        ],
+        "faq": [
+          {
+            "question": "Is fiber cement siding more expensive than vinyl siding?",
+            "answer": "Yes, fiber cement siding typically costs more than vinyl siding due to its superior durability and fire resistance. However, the long-term benefits and increased property value often make it a worthwhile investment."
+          },
+          {
+            "question": "Does fiber cement siding require painting?",
+            "answer": "Fiber cement siding comes pre-primed and ready to paint. We can provide painting services to match your desired color scheme or leave it to you to paint after installation."
+          },
+          {
+            "question": "How often does fiber cement siding need to be maintained?",
+            "answer": "Fiber cement siding requires minimal maintenance. We recommend cleaning it every few years with a mild detergent and water to remove any dirt or debris. It may also need to be repainted every 10-15 years."
+          }
+        ]
+      },
+      {
+        "slug": "wood-siding-installation",
+        "name": "Wood Siding Installation & Repair",
+        "shortDescription": "Classic wood siding installation and repair for New York City homes.",
+        "description": "Wood siding offers a timeless aesthetic that complements many New York City homes, especially those in historic districts. We specialize in the installation and repair of various wood siding types, including clapboard, cedar shingles, and tongue-and-groove siding. Our experienced carpenters ensure precise cuts, secure fastening, and proper sealing to protect your home from the elements. We understand the unique challenges of working with wood in NYC's climate and take extra precautions to prevent moisture damage and rot.\n\nOur wood siding services include thorough inspections to identify existing problems, such as rot, insect damage, or loose boards. We provide detailed repair estimates and use high-quality materials to ensure lasting results. We also offer staining and painting services to enhance the beauty and protect your wood siding from the sun and rain. Wood siding requires more maintenance than other materials, but its natural beauty and warmth make it a worthwhile investment for many homeowners.\n\nWe are experts in matching existing siding profiles and finishes to maintain the historical integrity of your home. We also offer custom wood siding options to create a unique and personalized look. We are committed to providing exceptional craftsmanship and customer service on every project.",
+        "process": [
+          "Step 1: Comprehensive siding inspection and damage assessment",
+          "Step 2: Wood selection and custom milling (if needed)",
+          "Step 3: Precise installation and secure fastening",
+          "Step 4: Staining or painting for protection and aesthetics"
+        ],
+        "benefits": [
+          "Timeless beauty and natural aesthetic",
+          "Environmentally friendly and sustainable",
+          "Can be stained or painted to match any color scheme",
+          "Increases property value and curb appeal"
+        ],
+        "faq": [
+          {
+            "question": "What type of wood is best for siding in NYC?",
+            "answer": "Cedar is a popular choice for wood siding in NYC due to its natural resistance to rot, insects, and moisture. Other options include redwood, pine, and cypress."
+          },
+          {
+            "question": "How often does wood siding need to be painted or stained?",
+            "answer": "Wood siding typically needs to be painted or stained every 3-7 years, depending on the type of wood, the quality of the finish, and the exposure to the elements."
+          },
+          {
+            "question": "What can I do to prevent wood siding from rotting?",
+            "answer": "Proper installation, regular maintenance, and adequate ventilation are key to preventing wood siding from rotting. Make sure to seal any cracks or gaps, clean the siding regularly, and ensure that there is proper airflow behind the siding."
+          }
+        ]
+      },
+      {
+        "slug": "siding-repair",
+        "name": "Siding Repair Services",
+        "shortDescription": "Expert siding repair services to protect your NYC property from the elements.",
+        "description": "Even the most durable siding can suffer damage from weather, pests, or accidents. We offer comprehensive siding repair services to address any issues and restore the integrity of your property. Our experienced technicians can repair or replace damaged siding, fix leaks, and prevent further damage. We work with all types of siding, including vinyl, fiber cement, wood, and metal. We understand the importance of prompt and reliable repairs to protect your home from the elements and prevent costly damage.\n\nOur siding repair services include thorough inspections to identify the source of the problem and provide a customized repair plan. We use high-quality materials and proven techniques to ensure lasting results. We also offer emergency repair services for urgent situations, such as storm damage or leaks. We are committed to providing exceptional customer service and ensuring your complete satisfaction.\n\nWe handle everything from minor repairs, like replacing a few damaged panels, to major overhauls, like replacing entire sections of siding. No job is too big or too small. Our goal is to provide affordable and effective solutions that protect your property and enhance its value.",
+        "process": [
+          "Step 1: Thorough inspection and damage assessment",
+          "Step 2: Customized repair plan and estimate",
+          "Step 3: Repair or replacement of damaged siding",
+          "Step 4: Sealing and finishing for lasting protection"
+        ],
+        "benefits": [
+          "Prevents further damage and costly repairs",
+          "Restores the integrity of your siding",
+          "Enhances curb appeal and property value",
+          "Extends the life of your siding"
+        ],
+        "faq": [
+          {
+            "question": "How do I know if my siding needs to be repaired?",
+            "answer": "Signs that your siding needs to be repaired include cracks, gaps, loose boards, water stains, mold growth, and insect damage. If you notice any of these issues, it's important to contact a professional siding contractor for an inspection."
+          },
+          {
+            "question": "Can you match the existing siding on my home?",
+            "answer": "Yes, we can match the existing siding on your home in most cases. We have access to a wide range of siding materials and colors, and we can also custom-match colors if needed."
+          },
+          {
+            "question": "How long does a typical siding repair take?",
+            "answer": "The length of time it takes to repair siding depends on the extent of the damage and the type of siding. Minor repairs can often be completed in a day, while more extensive repairs may take several days."
+          }
+        ]
+      },
+      {
+        "slug": "siding-replacement",
+        "name": "Siding Replacement Services",
+        "shortDescription": "Transform your NYC home with professional siding replacement services.",
+        "description": "When siding is beyond repair or you're looking to upgrade your home's appearance and energy efficiency, siding replacement is the best solution. We offer comprehensive siding replacement services for all types of properties in New York City. Our experienced team will remove your old siding, prepare the surface, and install new, high-quality siding that enhances your home's beauty and protects it from the elements. We work with a wide range of siding materials, including vinyl, fiber cement, wood, and metal, to meet your specific needs and budget.\n\nOur siding replacement process includes a detailed consultation to discuss your goals and preferences. We provide expert advice on material selection, color options, and design considerations. We also handle all necessary permits and inspections to ensure a smooth and hassle-free project. We are committed to providing exceptional craftsmanship and customer service on every siding replacement project.\n\nWe understand that siding replacement is a significant investment, and we strive to provide the best possible value. We offer competitive pricing, flexible financing options, and a satisfaction guarantee. Our goal is to transform your home and protect it for years to come.",
+        "process": [
+          "Step 1: Initial consultation and design planning",
+          "Step 2: Removal of old siding and surface preparation",
+          "Step 3: Installation of new siding and trim",
+          "Step 4: Final inspection and cleanup"
+        ],
+        "benefits": [
+          "Improved curb appeal and property value",
+          "Enhanced energy efficiency and comfort",
+          "Increased protection from the elements",
+          "Reduced maintenance costs"
+        ],
+        "faq": [
+          {
+            "question": "How do I choose the right siding material for my home?",
+            "answer": "The best siding material for your home depends on your budget, aesthetic preferences, and the climate in your area. We can help you evaluate the pros and cons of each material and choose the one that best meets your needs."
+          },
+          {
+            "question": "Do I need a permit to replace my siding?",
+            "answer": "Yes, in most cases, you will need a permit to replace your siding in New York City. We can handle the permit process for you to ensure that your project complies with all local regulations."
+          },
+          {
+            "question": "How long does it take to replace siding on a house?",
+            "answer": "The length of time it takes to replace siding on a house depends on the size of the house and the complexity of the project. A typical siding replacement project takes 1-2 weeks."
+          }
+        ]
+      },
+      {
+        "slug": "commercial-siding",
+        "name": "Commercial Siding Services",
+        "shortDescription": "Expert siding solutions for businesses and commercial properties in New York City.",
+        "description": "New York City NY Siding delivers durable, attractive, and cost-effective siding solutions for commercial properties. We understand the unique demands of commercial buildings in NYC, from high-rise offices to retail spaces. We offer a range of siding options designed to enhance curb appeal, improve energy efficiency, and protect your investment. Our team is experienced in working with various commercial siding materials, including metal, fiber cement, and vinyl, and we're equipped to handle projects of any scale.\n\nWe work closely with property managers, building owners, and contractors to ensure that our siding solutions meet their specific needs and budget. We provide detailed estimates, project timelines, and ongoing communication throughout the process. Our goal is to minimize disruption to your business operations while delivering exceptional results.\n\nFrom new construction to renovations and repairs, New York City NY Siding is your trusted partner for all your commercial siding needs. We are committed to providing high-quality workmanship, reliable service, and competitive pricing.",
+        "process": [
+          "Step 1: Consultation and site assessment",
+          "Step 2: Material selection and design planning",
+          "Step 3: Permitting and approvals",
+          "Step 4: Professional installation and project management"
+        ],
+        "benefits": [
+          "Improved building aesthetics and curb appeal",
+          "Enhanced energy efficiency and reduced operating costs",
+          "Increased property value",
+          "Durable and long-lasting protection from the elements"
+        ],
+        "faq": [
+          {
+            "question": "What are the best siding options for commercial buildings in NYC?",
+            "answer": "Metal siding, fiber cement siding, and commercial-grade vinyl siding are all excellent options for commercial buildings in NYC. The best choice depends on your budget, aesthetic preferences, and the specific requirements of your building."
+          },
+          {
+            "question": "Do you offer maintenance and repair services for commercial siding?",
+            "answer": "Yes, we offer comprehensive maintenance and repair services for all types of commercial siding. We can help you keep your siding in top condition and prevent costly repairs."
+          },
+          {
+            "question": "How can siding improve the energy efficiency of my commercial building?",
+            "answer": "Properly installed siding can significantly improve the energy efficiency of your commercial building by reducing heat loss in the winter and heat gain in the summer. This can lead to lower energy bills and a more comfortable work environment."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "New York",
+        "slug": "new-york-ny",
+        "state": "NY",
+        "content": "New York City NY Siding is proud to offer comprehensive siding installation and repair services to the residents and businesses of New York City. From the bustling streets of Manhattan to the vibrant neighborhoods of Brooklyn, Queens, the Bronx, and Staten Island, we understand the unique architectural styles and weather challenges that impact siding performance in our city. Our experienced team is dedicated to providing top-quality workmanship and using premium materials to ensure that your siding not only looks great but also protects your property for years to come.\n\nWe offer a wide range of siding options, including vinyl, fiber cement, wood, and metal, to suit any aesthetic preference and budget. Whether you're looking to enhance the curb appeal of your brownstone, upgrade the energy efficiency of your high-rise, or simply repair damaged siding, we have the expertise and resources to get the job done right. We are committed to providing exceptional customer service and ensuring your complete satisfaction.",
+        "localContext": "New York City, a global hub for finance, culture, and innovation, presents unique challenges and opportunities for siding installation due to its diverse architecture and dense urban environment. We understand the nuances of working in this dynamic city and are committed to providing reliable and professional service.",
+        "nearbyAreas": [
+          "Jersey City",
+          "Hoboken",
+          "Newark"
+        ]
+      },
+      {
+        "city": "Yonkers",
+        "slug": "yonkers-ny",
+        "state": "NY",
+        "content": "New York City NY Siding extends its expert siding services to Yonkers, NY, providing homeowners and businesses with reliable solutions for protecting and beautifying their properties. Yonkers, with its mix of historic homes and modern developments, requires siding that can withstand the elements and complement the local architecture. We offer a variety of siding options, including vinyl, fiber cement, and wood, to meet the diverse needs of our Yonkers customers.\n\nOur team is experienced in working on a wide range of properties in Yonkers, from single-family homes to multi-unit buildings. We are committed to providing exceptional customer service and ensuring that your siding project is completed to your satisfaction. We use only the highest quality materials and employ skilled installers to ensure that your siding will last for years to come.",
+        "localContext": "Yonkers, a vibrant city just north of New York City, boasts a mix of urban and suburban environments, requiring siding solutions that are both durable and aesthetically pleasing. We are familiar with the local building codes and regulations and are committed to providing compliant and professional service.",
+        "nearbyAreas": [
+          "Bronxville",
+          "Mount Vernon",
+          "Hastings-on-Hudson"
+        ]
+      },
+      {
+        "city": "Mount Vernon",
+        "slug": "mount-vernon-ny",
+        "state": "NY",
+        "content": "New York City NY Siding is pleased to offer its professional siding services to the residents and businesses of Mount Vernon, NY. Mount Vernon's diverse housing stock, ranging from historic homes to contemporary constructions, calls for siding solutions that are both visually appealing and durable. We provide a comprehensive range of siding options, including vinyl, fiber cement, and wood, tailored to meet the specific needs of our Mount Vernon clients.\n\nOur skilled team has extensive experience working on various properties in Mount Vernon, from individual homes to larger commercial structures. We are dedicated to delivering outstanding customer service and ensuring your siding project is executed flawlessly. We utilize only the finest materials and employ experienced installers to guarantee the longevity and performance of your new siding.",
+        "localContext": "Mount Vernon, a thriving city in Westchester County, features a mix of architectural styles, making it essential to choose siding that complements the local character and provides lasting protection. We understand the unique needs of Mount Vernon homeowners and businesses and are dedicated to delivering exceptional service.",
+        "nearbyAreas": [
+          "Pelham",
+          "Bronx",
+          "New Rochelle"
+        ]
+      },
+      {
+        "city": "New Rochelle",
+        "slug": "new-rochelle-ny",
+        "state": "NY",
+        "content": "New York City NY Siding provides expert siding installation and repair services to the community of New Rochelle, NY. New Rochelle, with its beautiful waterfront properties and diverse architectural styles, presents unique siding challenges and opportunities. We offer a wide range of siding options, including vinyl, fiber cement, and cedar, to enhance the beauty and protect the value of your home or business.\n\nOur experienced team is dedicated to providing exceptional customer service and ensuring that your siding project is completed to your satisfaction. We use only the highest quality materials and employ skilled installers to ensure that your siding will withstand the elements and last for years to come. From small repairs to complete siding replacements, we are here to help you with all your siding needs in New Rochelle.",
+        "localContext": "New Rochelle, a coastal city in Westchester County, experiences a mix of weather conditions, making durable and weather-resistant siding essential for protecting homes and businesses. We are familiar with the local building codes and regulations and are committed to providing compliant and professional service.",
+        "nearbyAreas": [
+          "Larchmont",
+          "Mamaroneck",
+          "Pelham Manor"
+        ]
+      },
+      {
+        "city": "White Plains",
+        "slug": "white-plains-ny",
+        "state": "NY",
+        "content": "New York City NY Siding proudly serves White Plains, NY, offering a full suite of siding services to enhance and protect homes and businesses in the area. White Plains, a bustling city with a mix of residential and commercial properties, requires siding solutions that are both aesthetically pleasing and durable. We offer a diverse range of siding options, including vinyl, fiber cement, and wood, to meet the unique needs of our White Plains customers.\n\nOur team is experienced in working on a variety of properties in White Plains, from historic homes to modern office buildings. We are committed to providing exceptional customer service and ensuring that your siding project is completed to your satisfaction. We use only the highest quality materials and employ skilled installers to ensure that your siding will last for years to come.",
+        "localContext": "White Plains, a major commercial and residential hub in Westchester County, requires siding that can withstand the elements and enhance the curb appeal of properties. We understand the unique needs of White Plains homeowners and businesses and are dedicated to delivering exceptional service.",
+        "nearbyAreas": [
+          "Scarsdale",
+          "Hartsdale",
+          "Tarrytown"
+        ]
+      },
+      {
+        "city": "Stamford",
+        "slug": "stamford-ny",
+        "state": "NY",
+        "content": "Though technically in Connecticut, New York City NY Siding extends its service area to Stamford, CT, providing high-quality siding solutions to homeowners and businesses in this vibrant city. Stamford's mix of coastal properties and inland neighborhoods require siding that can withstand harsh weather conditions and maintain its beauty for years to come. We offer a variety of siding options, including vinyl, fiber cement, and cedar, to suit any architectural style and budget.\n\nOur experienced team is committed to providing exceptional customer service and ensuring that your siding project is completed to your satisfaction. We use only the highest quality materials and employ skilled installers to guarantee the longevity and performance of your new siding. Whether you're looking to replace old, damaged siding or upgrade to a more energy-efficient option, we are here to help.",
+        "localContext": "Stamford, a bustling city on the Connecticut shoreline, experiences a range of weather conditions, making durable and weather-resistant siding crucial for protecting homes and businesses. While located in CT, many residents work in NY and we are happy to provide services.",
+        "nearbyAreas": [
+          "Greenwich",
+          "Norwalk",
+          "Darien"
+        ]
+      },
+      {
+        "city": "The Bronx",
+        "slug": "the-bronx-ny",
+        "state": "NY",
+        "content": "New York City NY Siding is dedicated to serving the residents and businesses of The Bronx with reliable and high-quality siding services. The Bronx, known for its diverse neighborhoods and architectural styles, requires siding solutions that are both durable and aesthetically pleasing. We offer a wide range of siding options, including vinyl, fiber cement, and brick, to meet the unique needs of our Bronx customers.\n\nOur team is experienced in working on a variety of properties in The Bronx, from historic brownstones to modern apartment buildings. We are committed to providing exceptional customer service and ensuring that your siding project is completed to your satisfaction. We use only the highest quality materials and employ skilled installers to ensure that your siding will last for years to come, protecting your home from the elements.",
+        "localContext": "The Bronx, a vibrant borough of New York City, presents a mix of urban and suburban environments, requiring siding solutions that are both durable and aesthetically pleasing. We are familiar with the local building codes and regulations and are committed to providing compliant and professional service.",
+        "nearbyAreas": [
+          "Yonkers",
+          "Mount Vernon",
+          "Manhattan"
+        ]
+      },
+      {
+        "city": "Brooklyn",
+        "slug": "brooklyn-ny",
+        "state": "NY",
+        "content": "New York City NY Siding is proud to offer comprehensive siding installation and repair services to the diverse neighborhoods of Brooklyn, NY. From the historic brownstones of Park Slope to the modern developments of Williamsburg, we understand the unique architectural styles and weather challenges that impact siding performance in Brooklyn. Our experienced team is dedicated to providing top-quality workmanship and using premium materials to ensure that your siding not only looks great but also protects your property for years to come.\n\nWe offer a wide range of siding options, including vinyl, fiber cement, wood, and metal, to suit any aesthetic preference and budget. Whether you're looking to enhance the curb appeal of your brownstone, upgrade the energy efficiency of your building, or simply repair damaged siding, we have the expertise and resources to get the job done right. We are committed to providing exceptional customer service and ensuring your complete satisfaction.",
+        "localContext": "Brooklyn, a vibrant and diverse borough of New York City, presents unique challenges and opportunities for siding installation due to its varied architectural styles and dense urban environment. We understand the nuances of working in this dynamic borough and are committed to providing reliable and professional service.",
+        "nearbyAreas": [
+          "Manhattan",
+          "Queens",
+          "Staten Island"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Maria S.",
+        "rating": 5,
+        "service": "Vinyl Siding Installation",
+        "text": "New York City NY Siding did an amazing job on my house in Queens. The new vinyl siding looks fantastic, and the installation was quick and professional. The team was very helpful in choosing the right style and color. Highly recommend!",
+        "date": "2024-11-15"
+      },
+      {
+        "name": "David K.",
+        "rating": 4,
+        "service": "Wood Siding Repair",
+        "text": "I had some damaged wood siding on my brownstone in Brooklyn, and New York City NY Siding was able to repair it seamlessly. They matched the existing siding perfectly, and the repair is barely noticeable. Great service!",
+        "date": "2024-10-28"
+      },
+      {
+        "name": "Jennifer L.",
+        "rating": 5,
+        "service": "Fiber Cement Siding Installation",
+        "text": "We chose fiber cement siding for our home in Manhattan, and New York City NY Siding did an excellent job with the installation. The siding looks beautiful, and we feel much more secure knowing that it's fire-resistant. The crew was punctual and professional!",
+        "date": "2024-09-05"
+      },
+      {
+        "name": "Robert M.",
+        "rating": 5,
+        "service": "Siding Replacement",
+        "text": "Our old siding was falling apart, so we hired New York City NY Siding to replace it. They were fantastic from start to finish. They helped us choose the right siding for our budget, and the installation was flawless. Our house looks brand new!",
+        "date": "2024-08-12"
+      },
+      {
+        "name": "Susan B.",
+        "rating": 4,
+        "service": "Siding Repair",
+        "text": "I had a small section of siding that was damaged by a storm, and New York City NY Siding was able to repair it quickly and efficiently. The price was reasonable, and the service was excellent. I would definitely use them again.",
+        "date": "2024-07-21"
+      },
+      {
+        "name": "Michael P.",
+        "rating": 5,
+        "service": "Commercial Siding",
+        "text": "We needed new siding for our retail space in the Bronx, and New York City NY Siding provided a great solution. The new siding looks fantastic and has significantly improved the appearance of our building. The team was professional and easy to work with.",
+        "date": "2024-06-10"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "NYC Siding Installation | Top Rated",
+        "description": "Expert siding installation & repair in New York City. Vinyl, fiber cement, wood siding. Free quotes! Call +16468493390"
+      },
+      "about": {
+        "title": "About Us | NYC Siding Specialists",
+        "description": "Learn about New York City NY Siding, your trusted local siding contractor. Quality, experience, and customer satisfaction guaranteed."
+      },
+      "services": {
+        "title": "NYC Siding Services | Installation & Repair",
+        "description": "Comprehensive siding services in New York City. Vinyl, fiber cement, wood siding installation, repair, and replacement."
+      },
+      "contact": {
+        "title": "Contact Us | NYC Siding Estimates",
+        "description": "Contact New York City NY Siding for a free quote on your siding project. Call +16468493390 or fill out our online form."
+      },
+      "reviews": {
+        "title": "NYC Siding Reviews | Customer Testimonials",
+        "description": "Read real customer reviews of New York City NY Siding. See why we're the top-rated siding contractor in NYC."
+      },
+      "service-areas": {
+        "title": "NYC Siding Service Areas",
+        "description": "Siding services in New York City and surrounding areas. Serving all boroughs and neighborhoods."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 15,
+      "projectsCompleted": "1200+",
+      "satisfaction": "98%",
+      "teamSize": "25+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "vinyl-siding-installation": "/images/service-vinyl-siding-installation.webp",
+      "fiber-cement-siding-installation": "/images/service-fiber-cement-siding-installation.webp",
+      "wood-siding-installation": "/images/service-wood-siding-installation.webp",
+      "siding-repair": "/images/service-siding-repair.webp",
+      "siding-replacement": "/images/service-siding-replacement.webp",
+      "commercial-siding": "/images/service-commercial-siding.webp"
+    },
+    "servicesResponsive": {
+      "vinyl-siding-installation": {
+        "src": "/images/service-vinyl-siding-installation.webp",
+        "srcset": "/images/service-vinyl-siding-installation-400w.webp 400w, /images/service-vinyl-siding-installation-800w.webp 800w, /images/service-vinyl-siding-installation-1200w.webp 1200w, /images/service-vinyl-siding-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "fiber-cement-siding-installation": {
+        "src": "/images/service-fiber-cement-siding-installation.webp",
+        "srcset": "/images/service-fiber-cement-siding-installation-400w.webp 400w, /images/service-fiber-cement-siding-installation-800w.webp 800w, /images/service-fiber-cement-siding-installation-1200w.webp 1200w, /images/service-fiber-cement-siding-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "wood-siding-installation": {
+        "src": "/images/service-wood-siding-installation.webp",
+        "srcset": "/images/service-wood-siding-installation-400w.webp 400w, /images/service-wood-siding-installation-800w.webp 800w, /images/service-wood-siding-installation-1200w.webp 1200w, /images/service-wood-siding-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "siding-repair": {
+        "src": "/images/service-siding-repair.webp",
+        "srcset": "/images/service-siding-repair-400w.webp 400w, /images/service-siding-repair-800w.webp 800w, /images/service-siding-repair-1200w.webp 1200w, /images/service-siding-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "siding-replacement": {
+        "src": "/images/service-siding-replacement.webp",
+        "srcset": "/images/service-siding-replacement-400w.webp 400w, /images/service-siding-replacement-800w.webp 800w, /images/service-siding-replacement-1200w.webp 1200w, /images/service-siding-replacement.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "commercial-siding": {
+        "src": "/images/service-commercial-siding.webp",
+        "srcset": "/images/service-commercial-siding-400w.webp 400w, /images/service-commercial-siding-800w.webp 800w, /images/service-commercial-siding-1200w.webp 1200w, /images/service-commercial-siding.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
